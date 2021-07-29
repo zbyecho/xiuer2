@@ -1,0 +1,26 @@
+{
+  "name": "xiuer",
+  "version": "1.0.0",
+  "description": "这是我首个脚手架",
+  "main": "bin.js",
+  "bin": "./bin/cli.js",
+  "author": "baoyan zhang",
+  "keywords": [
+    "xiuer-cli",
+    "xiuer",
+    "脚手架"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.1.2",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "figlet": "^1.5.0"
+  }
+}
