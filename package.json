@@ -1,6 +1,6 @@
 {
   "name": "xiuer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "这是我首个脚手架",
   "main": "bin.js",
   "bin": "./bin/cli.js",
@@ -18,9 +18,8 @@
     "download-git-repo": "^3.0.2",
     "fs-extra": "^10.0.0",
     "inquirer": "^8.1.2",
-    "ora": "^5.4.1"
-  },
-  "devDependencies": {
+    "ora": "^5.4.1",
     "figlet": "^1.5.0"
   }
+  
 }

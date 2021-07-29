@@ -1,9 +1,3 @@
-/*
- * @Date: 2021-07-29 09:42:36
- * @LastEditors: zhangbaoyan
- * @LastEditTime: 2021-07-29 16:49:52
- * @FilePath: /xiuer/bin/cli.js
- */
 #! /usr/bin/env node
 
 
